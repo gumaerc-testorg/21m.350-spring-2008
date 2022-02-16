@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings and Music
 uid: 1ec326c2-a26c-b2c5-3f3f-65e088895d5a
 ---
