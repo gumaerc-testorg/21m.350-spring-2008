@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dc95ec9b-f4a2-3fd4-339b-403c28dab21d
 resourcetype: Document
 title: chopin_prelude.pdf
 uid: 1259b6b2-ef1c-79b3-f460-839d24a1ef8d

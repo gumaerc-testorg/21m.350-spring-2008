@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 89e8e832-554b-d833-0693-c2b217c8fe01
 resourcetype: Document
 title: sheil_final.pdf
 uid: ec118dfc-3240-b4eb-edfb-4987f61a2143

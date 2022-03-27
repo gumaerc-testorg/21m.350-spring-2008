@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 89e8e832-554b-d833-0693-c2b217c8fe01
 resourcetype: Document
 title: ovsey_final.pdf
 uid: 60665fd4-b48a-e82c-2ac7-11d2b46244da

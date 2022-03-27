@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: dc95ec9b-f4a2-3fd4-339b-403c28dab21d
 resourcetype: Document
 title: strauss_tod_them.pdf
 uid: 58892e6e-72cc-1a3a-cfb2-c1d37b0d33f1

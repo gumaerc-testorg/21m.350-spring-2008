@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 89e8e832-554b-d833-0693-c2b217c8fe01
 resourcetype: Document
 title: amick_final.pdf
 uid: a11eec25-8d3f-4adf-321a-8c667590bfe6
