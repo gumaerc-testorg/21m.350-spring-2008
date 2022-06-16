@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on three writing assignments and an
+  oral report, and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -37,8 +39,8 @@ In your presentations, bring recorded excerpts to illustrate your main points (i
 
 The following exemplary final papers are presented courtesy of the students and used with permission.
 
-Amick, Charles. "Theme and Variations in Schubert's _String Quartet no. 14, #2_" ([PDF]({{< baseurl >}}/resources/amick_final))
+Amick, Charles. "Theme and Variations in Schubert's _String Quartet no. 14, #2_" ({{% resource_link a11eec25-8d3f-4adf-321a-8c667590bfe6 "PDF" %}})
 
-Sheil, Geoffrey. "Rhythmic Structures in Mozart's Linz Symphony." ([PDF - 1.1 MB]({{< baseurl >}}/resources/sheil_final))
+Sheil, Geoffrey. "Rhythmic Structures in Mozart's Linz Symphony." ({{% resource_link ec118dfc-3240-b4eb-edfb-4987f61a2143 "PDF - 1.1 MB" %}})
 
-Ovsey, Simone. "_Jupiter_: The Musical Journey of Outward Conflict and Inner Resolution." ([PDF]({{< baseurl >}}/resources/ovsey_final))
+Ovsey, Simone. "_Jupiter_: The Musical Journey of Outward Conflict and Inner Resolution." ({{% resource_link 60665fd4-b48a-e82c-2ac7-11d2b46244da "PDF" %}})
