@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section presents some musical analysis examples by Prof. Child.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: dc95ec9b-f4a2-3fd4-339b-403c28dab21d
 ---
@@ -40,7 +43,7 @@ Haydn's _Piano Sonata No. 52 in E flat_
 
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis of 6/3 sequences ([PDF]({{< baseurl >}}/resources/haydn_sonata_seq))
+Analysis of 6/3 sequences ({{% resource_link f9490801-bb3b-9dcd-3d08-b0aa02b34000 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +65,7 @@ Haydn's _Symphony No. 101 in D major_, third movement (Minuet)
 
 {{< tdclose >}}
 {{< tdopen >}}
-Piano reduction ([PDF]({{< baseurl >}}/resources/haydn_symph_red))
+Piano reduction ({{% resource_link 72473ea5-4624-c7bd-08a6-92edf416191a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,11 +85,11 @@ Bellini '_Casta Diva_'
 {{< tdopen >}}
 
 
-Principal and secondary melodic tones, with decorative pitches identified ([PDF]({{< baseurl >}}/resources/casta_diva1))
+Principal and secondary melodic tones, with decorative pitches identified ({{% resource_link ff111ca6-fda2-9f2f-ca64-5a92e7b23a5e "PDF" %}})
 
-Harmony and non-harmonic tones ([PDF]({{< baseurl >}}/resources/casta_diva2))
+Harmony and non-harmonic tones ({{% resource_link e36d0182-bb75-fe62-197e-15f7825b1f22 "PDF" %}})
 
-Melodic reduction ([PDF]({{< baseurl >}}/resources/casta_diva3))
+Melodic reduction ({{% resource_link 59e0d3b4-9bcf-5735-3890-7db9925bac4b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -108,9 +111,9 @@ Chopin _Etude Op. 25 No. 2 in F minor_
 {{< tdopen >}}
 
 
-Analytical graph of the complete melody ([PDF]({{< baseurl >}}/resources/chopin_prelude))
+Analytical graph of the complete melody ({{% resource_link 1259b6b2-ef1c-79b3-f460-839d24a1ef8d "PDF" %}})
 
-Analytical graph (melodic and rhythmic reductions) of mm. 1-16 ([PDF]({{< baseurl >}}/resources/chopin_etude))
+Analytical graph (melodic and rhythmic reductions) of mm. 1-16 ({{% resource_link 2bf11f1e-f0cf-1514-88fe-17581dd6974a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -130,7 +133,7 @@ Analytical graph (melodic and rhythmic reductions) of mm. 1-16 ([PDF]({{< baseur
 Bach's _Organ Prelude "Jesu meine Freude"_
 {{< tdclose >}}
 {{< tdopen >}}
-Analytical reduction ([PDF]({{< baseurl >}}/resources/bach_jesu_red))
+Analytical reduction ({{% resource_link 956fddae-7109-a794-033d-643939645818 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +169,7 @@ Analysis #152 in Schenker, Heinrich. _Free Composition (Der freie Satz)_. Supple
 Strauss's _Tod und Verklärung_
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis of themes ([PDF]({{< baseurl >}}/resources/strauss_tod_them))
+Analysis of themes ({{% resource_link 58892e6e-72cc-1a3a-cfb2-c1d37b0d33f1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
