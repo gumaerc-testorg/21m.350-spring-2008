@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: "Jupiter: The Musical Journey of Outward Conflict
   and Inner Resolution," by Simone Ovsey.'
 file: /courses/21m-350-musical-analysis-spring-2008/60665fd4b48ae82c2ac711d2b46244da_ovsey_final.pdf
+file_size: 560843
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: "Theme and Variations in Schubert?s String
   Quartet no. 14, # 2," by Charles Amick.'
 file: /courses/21m-350-musical-analysis-spring-2008/a11eec258d3f4adf321a8c667590bfe6_amick_final.pdf
+file_size: 986264
 file_type: application/pdf
 learning_resource_types:
 - Assignments

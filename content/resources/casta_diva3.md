@@ -2,6 +2,7 @@
 content_type: resource
 description: Melodic reduction of Bellini 'Casta Diva'.
 file: /courses/21m-350-musical-analysis-spring-2008/59e0d3b49bcf573538907db9925bac4b_casta_diva3.pdf
+file_size: 123311
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
