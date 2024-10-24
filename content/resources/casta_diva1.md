@@ -2,7 +2,7 @@
 content_type: resource
 description: Musical analysis example of principal and secondary melodic tones, with
   decorative pitches identified for Bellini 'Casta Diva'.
-file: /courses/21m-350-musical-analysis-spring-2008/ff111ca6fda29f2fca645a92e7b23a5e_casta_diva1.pdf
+file: /ol-ocw-studio-app/courses/21m-350-musical-analysis-spring-2008/ff111ca6fda29f2fca645a92e7b23a5e_casta_diva1.pdf
 file_size: 129363
 file_type: application/pdf
 learning_resource_types: []

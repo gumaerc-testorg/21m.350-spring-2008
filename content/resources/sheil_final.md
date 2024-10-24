@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: "Rhythmic Structures in Mozart''s Linz Symphony,"
   by Geoffrey Sheil.'
-file: /courses/21m-350-musical-analysis-spring-2008/ec118dfc3240b4ebedfb4987f61a2143_sheil_final.pdf
+file: /ol-ocw-studio-app/courses/21m-350-musical-analysis-spring-2008/ec118dfc3240b4ebedfb4987f61a2143_sheil_final.pdf
 file_size: 1153019
 file_type: application/pdf
 learning_resource_types:
