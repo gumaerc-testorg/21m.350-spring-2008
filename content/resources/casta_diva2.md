@@ -2,7 +2,7 @@
 content_type: resource
 description: Musical analysis example of harmony and non-harmonic tones for Bellini
   'Casta Diva'.
-file: /courses/21m-350-musical-analysis-spring-2008/e36d0182bb75fe62197e15f7825b1f22_casta_diva2.pdf
+file: /ol-ocw-studio-app/courses/21m-350-musical-analysis-spring-2008/e36d0182bb75fe62197e15f7825b1f22_casta_diva2.pdf
 file_size: 133180
 file_type: application/pdf
 learning_resource_types: []
