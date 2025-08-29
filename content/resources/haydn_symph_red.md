@@ -2,7 +2,7 @@
 content_type: resource
 description: Piano reduction of Haydn's Symphony No. 101 in D major, third movement
   (Minuet).
-file: /courses/21m-350-musical-analysis-spring-2008/72473ea54624c7bd08a692edf416191a_haydn_symph_red.pdf
+file: /ol-ocw-studio-app/courses/21m-350-musical-analysis-spring-2008/72473ea54624c7bd08a692edf416191a_haydn_symph_red.pdf
 file_size: 135507
 file_type: application/pdf
 learning_resource_types: []
