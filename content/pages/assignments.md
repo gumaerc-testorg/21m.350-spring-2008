@@ -16,8 +16,8 @@ Compare and contrast Bach's _Prelude in C major_ (WTC I) and Schumann's _Kleine 
 
 ### Scores
 
-*   Bach, J. S. _Prelude in C major_, BWV 846, from {{% resource_link "fb13c0f4-b022-4f16-b148-a3cff957a3c3" "_Well-Tempered Clavier, Book 1_" %}}
-*   Schumann, Robert. _Kleine Studie (Little Study)_, No. 14, from {{% resource_link "102315bc-9550-4b45-8df4-8680c743cab8" "_Album für die Jugend, Op.68 (Album for the Young)_" %}}.
+*   Bach, J. S. _Prelude in C major_, BWV 846, from [_Well-Tempered Clavier, Book 1_](http://imslp.org/wiki/Well-Tempered_Clavier%2C_Book_1_Nos._1-12%2C_BWV_846-857_%28Bach%2C_Johann_Sebastian%29)
+*   Schumann, Robert. _Kleine Studie (Little Study)_, No. 14, from [_Album für die Jugend, Op.68 (Album for the Young)_](http://imslp.org/wiki/Album_f%C3%BCr_die_Jugend%2C_Op.68_%28Schumann%2C_Robert%29).
 
 Paper 2
 -------
@@ -26,7 +26,7 @@ In his _Mazurka in F minor_ (Op. Posth. 68, No. 4), Chopin writes the following 
 
 ### Scores
 
-*   Chopin, Frederic. {{% resource_link "ab67f6c3-95c4-462c-9b4a-2da555aa38a5" "_Mazurka in F minor_" %}} (Op. Posth. 68, No. 4)
+*   Chopin, Frederic. [_Mazurka in F minor_](http://imslp.org/wiki/Mazurkas_Op.68_%28Chopin%2C_Frederic%29) (Op. Posth. 68, No. 4)
 
 Paper 3 (and Oral Report)
 -------------------------
